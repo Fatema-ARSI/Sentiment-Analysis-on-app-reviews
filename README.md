@@ -41,11 +41,7 @@ Most Informative Features
                  useless = True           Negati : Positi =     14.4 : 1.0
 
 
-
-
-
-
-
+## Result:
 
 
 
