@@ -1,8 +1,8 @@
 # Sentiment-Analysis-on-app-reviews
 ## Project Overview:
-- Created a model to analyse the sentiments of the reviews which are provided by the customers on google olay store.
+- Created a model to analyse the sentiments of the reviews which are provided by the customers on google play store.
 - Pre processed data applying tokenization and stopword from nltk to make the reviews in the formate nltl expects.
-- Optimised NaiveBayesClassifier from Natural Lnguage ToolKit to reach the best model.
+- Optimised NaiveBayesClassifier from Natural Language ToolKit to reach the best model.
 
 ## Code and Resources used:
 **Python:** 3.7.6.
