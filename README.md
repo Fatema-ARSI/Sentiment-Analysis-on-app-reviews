@@ -25,23 +25,19 @@
 
 -Accuracy with the most ten informative features:
 
-Accuracy is: 59.6555514840601
+Accuracy is: 59.21092564491654
 
 Most Informative Features
 
-                 charged = True           Negati : Positi =     27.6 : 1.0
-                   waste = True           Negati : Positi =     26.9 : 1.0
-                    Easy = True           Positi : Neutra =     20.1 : 1.0
-            disappointed = True           Negati : Positi =     19.7 : 1.0
-                  turned = True           Negati : Positi =     19.5 : 1.0
-                    bien = True           Positi : Neutra =     19.5 : 1.0
-                 Awesome = True           Positi : Negati =     17.8 : 1.0
-                   Doesn = True           Negati : Positi =     17.3 : 1.0
-                suddenly = True           Negati : Positi =     15.3 : 1.0
-                 useless = True           Negati : Positi =     14.4 : 1.0
-
-
-
-
+                  Nul = True           Negati : Positi =     48.5 : 1.0
+             désinstallé = True           Negati : Positi =     31.7 : 1.0
+             déconseille = True           Negati : Positi =     31.7 : 1.0
+                     Pub = True           Negati : Positi =     30.3 : 1.0
+              Impossible = True           Negati : Positi =     26.7 : 1.0
+               injouable = True           Negati : Positi =     21.6 : 1.0
+                 intérêt = True           Negati : Positi =     21.0 : 1.0
+                   abusé = True           Negati : Positi =     18.2 : 1.0
+                   gâche = True           Negati : Positi =     15.2 : 1.0
+                 affiche = True           Negati : Positi =     14.6 : 1.0
 
 
